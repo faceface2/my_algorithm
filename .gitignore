@@ -125,14 +125,7 @@ dmypy.json
 .pyre/
 
 
-.idea/codeStyles/
-.idea/my_algorithm.iml
+.idea/
 DataStructure/
 String/__pycache__/
-.idea/other.xml
-.idea/deployment.xml
-.idea/encodings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/workspace.xml
+
