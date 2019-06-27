@@ -1,0 +1,12 @@
+deviceId1 wifimac1 t1
+deviceId1 wifimac2 t2
+deviceId1 wifimac3 t3
+deviceId1 wifimac3 t4
+deviceId1 wifimac1 t1
+deviceId2 wifimac2 t2
+deviceId2 wifimac3 t3
+deviceId2 wifimac3 t4
+deviceId2 wifimac1 t1
+deviceId2 wifimac2 t2
+deviceId2 wifimac3 t3
+deviceId2 wifimac3 t4
